@@ -1,2 +1,2 @@
 # qps-man
-Qps Calculate and Qps generator
+Qps Calculator and Qps generator

@@ -8,7 +8,8 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * approximate accurate qps generator
+ * approximate accurate qps generator<br>
+ * please close when 
  * 
  * @author zhyhang
  *
